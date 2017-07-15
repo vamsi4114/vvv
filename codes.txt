@@ -1,0 +1,18 @@
+1 . simple interest
+
+P=float(raw_input("enter Principal:"))
+	i=float(raw_input("enter Percentage of interest rate:"))
+	t=float(raw_input("enter Time(in years):"))
+	I=P*t*(i/100)
+
+
+2. square root
+
+import math
+
+math.sqrt( 12 )
+
+3. lowercase to uppercase
+
+s = "vamsi"
+s.upper()
